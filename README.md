@@ -1,5 +1,5 @@
 There are 5 commands you must run in order if you are to download the project.
-Prior to these commands, make sure you have NPM installed on your computer.
+Prior to these commands, make sure you have NPM as well as the entire project installed on your computer.
 
 1. npm install
 2. npm install react-dom
