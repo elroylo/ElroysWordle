@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/elroys-wordle/static/css/main.df1b8546.css",
+    "main.js": "/elroys-wordle/static/js/main.94e3aebc.js",
+    "index.html": "/elroys-wordle/index.html",
+    "main.df1b8546.css.map": "/elroys-wordle/static/css/main.df1b8546.css.map",
+    "main.94e3aebc.js.map": "/elroys-wordle/static/js/main.94e3aebc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df1b8546.css",
+    "static/js/main.94e3aebc.js"
+  ]
+}
