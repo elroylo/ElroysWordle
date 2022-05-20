@@ -7,3 +7,4 @@ npm run build
 npm start
 
 To see the playable build, visit this site:
+https://elroylo.github.io/ElroysWordle/
