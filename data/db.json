@@ -42,6 +42,24 @@
     {"id": 12, "word": "truck"},
     {"id": 13, "word": "coats"},
     {"id": 14, "word": "lover"},
-    {"id": 15, "word": "wager"}
+    {"id": 15, "word": "wager"},
+    {"id": 16, "word": "drink"},
+    {"id": 17, "word": "clamp"},
+    {"id": 18, "word": "blank"},
+    {"id": 19, "word": "money"},
+    {"id": 20, "word": "audio"},
+    {"id": 21, "word": "stake"},
+    {"id": 22, "word": "stain"},
+    {"id": 23, "word": "grain"},
+    {"id": 24, "word": "power"},
+    {"id": 25, "word": "glass"},
+    {"id": 26, "word": "blast"},
+    {"id": 27, "word": "luger"},
+    {"id": 28, "word": "tiger"},
+    {"id": 29, "word": "women"},
+    {"id": 30, "word": "crate"},
+    {"id": 31, "word": "shoes"},
+    {"id": 32, "word": "grape"},
+    {"id": 33, "word": "flour"}
   ]
 }
